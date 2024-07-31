@@ -6,7 +6,7 @@ function Navbar() {
       <nav className=" flex justify-between container-wrapper items-center">
         <div className=" flex items-center gap-1">
           <img src="images/logo2.png" alt="" className=" h-[80px]" />
-          <h2 className="asul-bold text-xl sm:text-3xl">TrumpWif</h2>
+          <h2 className="asul-bold text-xl sm:text-3xl"> ElectPepe</h2>
         </div>
 
         <div>
