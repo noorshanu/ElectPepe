@@ -11,7 +11,7 @@ function Navbar() {
 
         <div>
           <a
-            href="https://www.dextools.io/app/en/solana/pair-explorer/BfMapUsutm8i4bawoAY42HGTAc6LRDfAM3LcScFmpMyn?t=1713285170026"
+            href="https://www.dextools.io/app/en/solana/pair-explorer/"
             target="_blank"
             className="bg-[#344cab] border-[#ab3435] rounded-sm text-base sm:text-2xl py-2 px-6 font-bold asul-bold  border-2 "
           >
