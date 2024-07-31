@@ -19,7 +19,7 @@ function Hero() {
                 target="_blank"
                 className="font-bold text-xs sm:text-xl text-center"
               >
-               coming soon....
+               56H1uG2xk2TN4Nf2LyYVtxRuo5ANPVbu3PHjch4Gbv9U
               </a>
             </div>
 
