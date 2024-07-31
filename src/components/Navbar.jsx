@@ -13,7 +13,7 @@ function Navbar() {
           <a
             href="https://www.dextools.io/app/en/solana/pair-explorer/"
             target="_blank"
-            className="bg-[#344cab] border-[#ab3435] rounded-sm text-base sm:text-2xl py-2 px-6 font-bold asul-bold  border-2 "
+            className="bg-[#344cab] hover:bg-transparent border-[#ab3435] rounded-sm text-base sm:text-2xl py-2 px-6 font-bold asul-bold  border-2 "
           >
             Buy Now
           </a>
