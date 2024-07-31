@@ -27,7 +27,7 @@ function Hero() {
               <a
                 href="https://www.dextools.io/app/en/solana/pair-explorer/"
                 target="_blank"
-                className="border-[#ab3435] border-2  bg-[#06157c] rounded-sm text-lg sm:text-2xl py-2 px-6 font-bold asul-bold  "
+                className="border-[#ab3435] border-2  bg-[#344cab] rounded-sm text-lg sm:text-2xl py-2 px-6 font-bold asul-bold  "
               >
                 DEXTOOLS
               </a>
