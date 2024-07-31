@@ -28,11 +28,11 @@ function Joinclub() {
             </p>
 
             <div className=" flex justify-center gap-4 items-center">
-              <a href="https://t.me/" target="_blank" className=" text-lg ">
+              <a href="https://x.com/ElectPepe_Sol" target="_blank" className=" text-lg ">
                 <FaTelegram />
               </a>
 
-              <a href="https://twitter.com/" target="_blank" className=" text-lg">
+              <a href="https://x.com/ElectPepe_Sol" target="_blank" className=" text-lg">
                 <FaSquareXTwitter />
               </a>
             </div>
