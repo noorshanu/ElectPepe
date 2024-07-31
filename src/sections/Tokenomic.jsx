@@ -3,7 +3,7 @@ import React from "react";
 function Tokenomic() {
   return (
     <section className=" relative">
-        <img src="images/toko.png" alt="" className=" absolute bottom-0" />
+        <img src="images/toko.png" alt="" className=" absolute bottom-0 sm:h-auto h-[180px]" />
       <div className=" container-wrapper">
             <p className=" text-[#ab3535] font-bold text-sm text-center">
             Make Crypto Great Again  
@@ -14,7 +14,7 @@ function Tokenomic() {
         <div className=" grid grid-cols-1 sm:grid-cols-2 justify-center gap-6 items-center">
           <div className="  border-4 rounded-sm  px-4 py-8  border-[#ab3535] bg-[#06157c]">
             <h1 className=" text-center font-bold asul-bold text-lg sm:text-4xl py-2 text-white ">
-              420,690,000,000
+            1 Billion
             </h1>
 
             <h3 className=" text-center font-bold asul-bold text-lg sm:text-xl text-white ">

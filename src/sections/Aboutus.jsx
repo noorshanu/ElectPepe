@@ -14,27 +14,28 @@ function Aboutus() {
           </div>
 
           <div className=" max-w-2xl">
-            <h1 className=" asul-bold text-4xl py-4 text-[#07147c] font-bold">About us</h1>
+            <h1 className=" asul-bold text-4xl py-4 text-[#07147c] font-bold">
+              About us
+            </h1>
 
             <p className=" text-lg py-2 text-[#07147c]">
-              Get ready for the ultimate crypto adventure with  Elect Pepe
-          on Solana! Imagine the iconic figure of President Donald
-              Trump, but cuter, funnier, and a tad more...babyish! This little
-              fella is here to shake up the crypto world with his winning
-              nature, presidential skills, and irresistible charm. Who needs
-              boring coins when your wallet can make you giggle?
+              Get ready for the ultimate crypto adventure with Elect Pepe on
+              Solana! Imagine the iconic figure of President Donald Trump, but
+              cuter, funnier, and in a PEPE style! This little fella is here to
+              shake up the crypto world with his winning nature, presidential
+              skills, and irresistible charm. Who needs boring coins when your
+              wallet can make you giggle?
             </p>
 
             <p className=" text-lg py-2 text-[#07147c]">
-            Let's bring laughter, creativity, and a hint of political satire to the Solana world.
+              Let's bring laughter, creativity, and a hint of political satire
+              to the Solana world.
             </p>
 
-      
-
             <p className=" text-lg py-2 text-[#07147c]">
-              Join us on our journey to make sol great again! Whether you're
+              Join us on our journey to make Solana great again! Whether you're
               a seasoned investor, a blockchain enthusiast, or simply someone
-              who enjoys a good laugh, there's a place for you in the  Elect Pepe. 
+              who enjoys a good laugh, there's a place for you in Elect Pepe
             </p>
           </div>
         </div>
