@@ -3,7 +3,7 @@ import { FaTelegram } from "react-icons/fa6";
 import { FaSquareXTwitter } from "react-icons/fa6";
 function Hero() {
   return (
-    <section className=" bg-main py-[2rem] sm:py-[8rem]">
+    <section className=" bg-main py-[2rem] sm:py-[1rem]">
       <div className=" container-wrapper">
         <div className=" flex flex-col sm:flex-row  justify-between items-center gap-6 pt-0 sm:pt-[1rem]">
           <div className=" w-full sm:w-1/2 bg-[#06167ca4] border-[#ab3435] border-2 px-3 py-4 rounded-md">
