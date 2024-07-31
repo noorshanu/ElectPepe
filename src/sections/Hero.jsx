@@ -15,17 +15,17 @@ function Hero() {
             </h1>
             <div className="border-[#ab3435] border-2  bg-[#06157c] rounded-sm py-2 px-4 my-3">
               <a
-                href="https://solscan.io/token/8n7ied5xpzGbLiL7nGL5dwoTfFYudfxbqHa3pQaG5ihy"
+                href="https://solscan.io/token/"
                 target="_blank"
                 className="font-bold text-xs sm:text-xl text-center"
               >
-                8n7ied5xpzGbLiL7nGL5dwoTfFYudfxbqHa3pQaG5ihy
+               coming soon....
               </a>
             </div>
 
             <div className="flex justify-center gap-4 items-center">
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/BdXhxzBizWqK88A8YZfWxuSoEgodpQmKgS6LSzWrpRWv?t=1715246688168"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/"
                 target="_blank"
                 className="border-[#ab3435] border-2  bg-[#06157c] rounded-sm text-lg sm:text-2xl py-2 px-6 font-bold asul-bold  "
               >
@@ -34,7 +34,7 @@ function Hero() {
 
               <div className=" flex justify-center gap-4 items-center">
                 <a
-                  href="https://t.me/trumpwifs"
+                  href="https://t.me/"
                   target="_blank"
                   className=" text-5xl "
                 >
@@ -42,7 +42,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="https://twitter.com/trump_wif1"
+                  href="https://twitter.com/"
                   target="_blank"
                   className=" text-5xl"
                 >
