@@ -11,7 +11,7 @@ function Hero() {
 
           <img src="images/text.png" alt="" className=" py-3" />
             <h1 className=" asul-bold text-xl sm:text-5xl font-semibold py-4">
-              Laugh, stake, and collect rewards with TrumpWif on Solana!
+            Elect Pepe will Make solana great again!
             </h1>
             <div className="border-[#ab3435] border-2  bg-[#06157c] rounded-sm py-2 px-4 my-3">
               <a
