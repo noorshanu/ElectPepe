@@ -12,7 +12,7 @@ function Joinclub() {
           </h1>
 
           <p className=" text-center text-xl py-4 text-[#ab3535] font-bold">
-            Ready to embrace the TrumpWif spirit? Here's how you can get
+            Ready to embrace the  ElectPepe spirit? Here's how you can get
             involved:
           </p>
         </div>
@@ -42,7 +42,7 @@ function Joinclub() {
             <h2 className=" text-2xl py-3 asul-bold">Spread the word</h2>
 
             <p className=" text-lg py-4">
-              Share the laughter and spread the message of TrumpWifwith your
+              Share the laughter and spread the message of  ElectPepewith your
               friends, family, and fellow Meme coin enthusiasts. The more, the
               merrier!
             </p>

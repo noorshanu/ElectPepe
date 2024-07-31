@@ -17,8 +17,8 @@ function Aboutus() {
             <h1 className=" asul-bold text-4xl py-4 text-[#07147c] font-bold">About us</h1>
 
             <p className=" text-lg py-2 text-[#07147c]">
-              Get ready for the ultimate crypto adventure with TrumpWifMeme
-              Coin on Solana! Imagine the iconic figure of President Donald
+              Get ready for the ultimate crypto adventure with  Elect Pepe
+          on Solana! Imagine the iconic figure of President Donald
               Trump, but cuter, funnier, and a tad more...babyish! This little
               fella is here to shake up the crypto world with his winning
               nature, presidential skills, and irresistible charm. Who needs
@@ -34,8 +34,7 @@ function Aboutus() {
             <p className=" text-lg py-2 text-[#07147c]">
               Join us on our journey to make sol great again! Whether you're
               a seasoned investor, a blockchain enthusiast, or simply someone
-              who enjoys a good laugh, there's a place for you in the Baby Trump
-              movement. 
+              who enjoys a good laugh, there's a place for you in the  Elect Pepe. 
             </p>
           </div>
         </div>
